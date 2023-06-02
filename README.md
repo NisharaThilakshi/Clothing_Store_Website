@@ -25,4 +25,4 @@ This is a simple website design created using HTML and CSS. It's a beginner-frie
 - 📁 images - Folder for storing image files used in the website
 
 
-🌐 Live Demo: https://calip.io/PA6b8ZM1#23JPXa5Z 
+🌐 Live Demo: https://calip.io/V0CiSzl4#eJYXXv9E
